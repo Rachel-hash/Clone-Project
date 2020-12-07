@@ -1,0 +1,80 @@
+#picture {
+    background-image: url("https://images.unsplash.com/photo-1519110756001-72f90e894646?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fHRlYSUyMGN1cHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#placeholder {
+   width: 100%;
+}
+.color-red {
+    color: #8e1258;
+    position: relative;
+}
+.card-group {
+    padding-left: 36vh;
+    padding-right: 16vh;
+}
+.card-text {
+    font-family: Monotype Corsiva;
+    font-size: x-large;
+}
+.navbar-brand {
+    font-family: Freestyle Script;
+    font-size: x-large;
+    margin-right: 66.5rem;
+}
+.tea-cards {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.navbar-light {
+    width: 100%;
+}
+.sticky-top {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.love {
+    color: #212529;
+}
+.text-black {
+    margin-top: -15.25rem;
+    margin-right: -5rem;
+}
+.crown {
+    background-color: rgb(211, 210, 210);
+
+}
+.no-border {
+    border: 0;
+}
+.white-text {
+    color: white;
+}
+.border-5 {
+    border-width: 5px !important;
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .hide-sm {
+        display: none;
+    }   
+    .padding-sm {
+        padding-bottom: 3rem;
+    }
+}
+@media (min-width: 768px) {
+    .vintage { 
+        font-family: Freestyle Script;
+        font-size: x-large;
+        position: absolute;
+        transform: translateY(25%);
+    }
+}
+/* .vintage { 
+        font-family: Freestyle Script;
+        font-size: x-large;
+        position: absolute;
+        transform: translateY(25%);
+    } */
