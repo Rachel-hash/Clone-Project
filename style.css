@@ -60,8 +60,6 @@
     .hide-sm {
         display: none;
     }   
-    .padding-sm {
-        padding-bottom: 3rem;
     }
 }
 @media (min-width: 768px) {
