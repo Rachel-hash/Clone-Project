@@ -9,7 +9,6 @@
 }
 .color-red {
     color: #8e1258;
-    position: relative;
 }
 .card-group {
     padding-left: 36vh;
@@ -58,21 +57,18 @@
 }
 @media (min-width: 576px) and (max-width: 767.98px) {
     .hide-sm {
-        display: none;
+        display: none
     }   
-    }
 }
 @media (min-width: 768px) {
     .vintage { 
         font-family: Freestyle Script;
         font-size: x-large;
-        position: absolute;
+        position: relative;
         transform: translateY(25%);
+        
+    }
+    .hide-sm {
+        
     }
 }
-/* .vintage { 
-        font-family: Freestyle Script;
-        font-size: x-large;
-        position: absolute;
-        transform: translateY(25%);
-    } */
